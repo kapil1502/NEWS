@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NEWS</string>
+    <string name="save_your_time_with_us">SAVE YOUR TIME WITH US</string>
+    <string name="_24_hrs_live_news">24 Hrs Live News</string>
+    <string name="Logo">Logo</string>
+    <string name="news_image">News image</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
